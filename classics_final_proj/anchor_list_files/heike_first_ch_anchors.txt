@@ -1,0 +1,66 @@
+[
+  {
+    "other_lang": "祇園精舎",
+    "eng": "GION SHOJA."
+  },
+  {
+    "other_lang": "殿上闇討",
+    "eng": "THE ASSASINATION AT COURT."
+  },
+  {
+    "other_lang": "鱸",
+    "eng": "SUZUKI."
+  },
+  {
+    "other_lang": "禿髮",
+    "eng": "KAMURO ; OR BOY ATTENDANTS."
+  },
+  {
+    "other_lang": "吾身榮花",
+    "eng": "THE SPLENDOUR OF KIYOMORI."
+  },
+  {
+    "other_lang": "祇王",
+    "eng": "GIO."
+  },
+  {
+    "other_lang": "二代后",
+    "eng": "THE TWO EMPRESSES."
+  },
+  {
+    "other_lang": "額打論",
+    "eng": "THE ARGUMENT OVER THE NAME TABLET."
+  },
+  {
+    "other_lang": "清水寺炎上",
+    "eng": "THE BURNING OF THE KIYOMIZU TEMPLE."
+  },
+  {
+    "other_lang": "東宮立",
+    "eng": "THE ENTHRONEMENT OF THE CROWN PRINCE."
+  },
+  {
+    "other_lang": "殿下乘合",
+    "eng": "THE COLLISION OF THE REGENT'S CARRIAGE."
+  },
+  {
+    "other_lang": "鹿谷",
+    "eng": "SHISHIGATANI."
+  },
+  {
+    "other_lang": "鵜川軍",
+    "eng": "THE BATTLE OF UKAWA."
+  },
+  {
+    "other_lang": "願立",
+    "eng": "THE VOWS."
+  },
+  {
+    "other_lang": "御輿振",
+    "eng": "THE PROCESSION OF THE SACRED PALANQUINS."
+  },
+  {
+    "other_lang": "内裏炎上",
+    "eng": "THE BURNING OF THE IMPERIAL PALACE."
+  }
+]

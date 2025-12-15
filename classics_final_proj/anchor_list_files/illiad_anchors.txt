@@ -1,0 +1,98 @@
+[
+  {
+    "other_lang": "Α",
+    "eng": "BOOK I."
+  },
+  {
+    "other_lang": "Β",
+    "eng": "BOOK II."
+  },
+  {
+    "other_lang": "Γ",
+    "eng": "BOOK III."
+  },
+  {
+    "other_lang": "Δ",
+    "eng": "BOOK IV."
+  },
+  {
+    "other_lang": "Ε",
+    "eng": "BOOK V."
+  },
+  {
+    "other_lang": "Ζ",
+    "eng": "BOOK VI."
+  },
+  {
+    "other_lang": "Η",
+    "eng": "BOOK VII."
+  },
+  {
+    "other_lang": "Θ",
+    "eng": "BOOK VIII."
+  },
+  {
+    "other_lang": "Ι",
+    "eng": "BOOK IX."
+  },
+  {
+    "other_lang": "Κ",
+    "eng": "BOOK X."
+  },
+  {
+    "other_lang": "Λ",
+    "eng": "BOOK XI."
+  },
+  {
+    "other_lang": "Μ",
+    "eng": "BOOK XII."
+  },
+  {
+    "other_lang": "Ν",
+    "eng": "BOOK XIII."
+  },
+  {
+    "other_lang": "Ξ",
+    "eng": "BOOK XIV."
+  },
+  {
+    "other_lang": "Ο",
+    "eng": "BOOK XV."
+  },
+  {
+    "other_lang": "Π",
+    "eng": "BOOK XVI."
+  },
+  {
+    "other_lang": "Ρ",
+    "eng": "BOOK XVII."
+  },
+  {
+    "other_lang": "Σ",
+    "eng": "BOOK XVIII."
+  },
+  {
+    "other_lang": "Τ",
+    "eng": "BOOK XIX."
+  },
+  {
+    "other_lang": "Υ",
+    "eng": "BOOK XX."
+  },
+  {
+    "other_lang": "Φ",
+    "eng": "BOOK XXI."
+  },
+  {
+    "other_lang": "Χ",
+    "eng": "BOOK XXII."
+  },
+  {
+    "other_lang": "Ψ",
+    "eng": "BOOK XXIII."
+  },
+  {
+    "other_lang": "Ω",
+    "eng": "BOOK XXIV."
+  }
+]

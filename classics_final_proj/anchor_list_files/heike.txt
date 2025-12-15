@@ -1,0 +1,70 @@
+[
+  {
+    "other_lang": "平家物語卷第一",
+    "eng": "VOLUME 1."
+  },
+  {
+    "other_lang": "祇園精舎",
+    "eng": "CHAPTER I."
+  },
+  {
+    "other_lang": "殿上闇討",
+    "eng": "CHAPTER II."
+  },
+  {
+    "other_lang": "鱸",
+    "eng": "CHAPTER III."
+  },
+  {
+    "other_lang": "禿髮",
+    "eng": "CHAPTER IV."
+  },
+  {
+    "other_lang": "吾身榮花",
+    "eng": "CHAPTER V."
+  },
+  {
+    "other_lang": "祇王",
+    "eng": "CHAPTER VI."
+  },
+  {
+    "other_lang": "二代后",
+    "eng": "CHAPTER VII."
+  },
+  {
+    "other_lang": "額打論",
+    "eng": "CHAPTER VIII."
+  },
+  {
+    "other_lang": "清水寺炎上",
+    "eng": "CHAPTER IX."
+  },
+  {
+    "other_lang": "東宮立",
+    "eng": "CHAPTER X."
+  },
+  {
+    "other_lang": "願立",
+    "eng": "CHAPTER XI."
+  },
+  {
+    "other_lang": "殿下乘合",
+    "eng": "CHAPTER XII."
+  },
+  {
+    "other_lang": "鹿谷",
+    "eng": "CHAPTER XIII."
+  },
+  {
+    "other_lang": "鵜川軍",
+    "eng": "CHAPTER XIV."
+  },
+  {
+    "other_lang": "御輿振",
+    "eng": "CHAPTER XV."
+  },
+  {
+    "other_lang": "内裏炎上",
+    "eng": "CHAPTER XVI."
+  }
+]

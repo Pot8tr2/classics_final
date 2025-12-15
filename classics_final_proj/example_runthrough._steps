@@ -1,0 +1,12 @@
+# activate your virtual enviorment.
+# source /path/to/venv/bin/activate
+
+# get the attempted anchors for the heike
+python anchor_extractor.py japanese_text/heike_pdf_trimmed.txt japanese_text/heike_first_chapter_jp -o anchor_list_files/heike.txt
+# attempt to fix any misalignments with the first book's anchors. given that the chapter doesn't line up exactly
+# do it in 
+python text_comparison_creator.py japanese_text/heike_pdf_trimmed.txt japanese_text/heike_first_chapter_jp anchor_list_files/heike.txt  wordlists/wordlis_jp.txt -s anchor_list_files/heike_fixed.txt
+# now can run allignment to extract the words you want to learn more about in the other text
+python text_comparison_creator.py japanese_text/heike_pdf_trimmed.txt japanese_text/heike_first_chapter_jp anchor_list_files/heike_fixed.txt  wordlists/wordlis_jp.txt -o output_files/heike_found.txt
+
+# TO DO LATER: create a visualization of words usage ig. rn you have to look at the file which is fine but eeeeh.
